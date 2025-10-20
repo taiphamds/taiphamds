@@ -3,7 +3,7 @@
 
 - 🔭  I'm passionate about working with data and leveraging it to uncover valuable insights
 <div align="center">
-<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://www.deviantart.com/cj21/art/Rock-Lee-Sprite-Gif-By-Cj21-91142584)" height="40" />
+<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif]" height="40" />
 </div>
 
 ## Tech Stack 
