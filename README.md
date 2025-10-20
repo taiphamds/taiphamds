@@ -1,4 +1,4 @@
-## Hi there :wave: I'm Tai Pham 🌱 Data Scientist  
+## Hi there :wave: I'm Tai Pham 🌱 Data Guy   
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭  I'm passionate about working with data and leveraging it to uncover valuable insights
