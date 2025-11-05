@@ -1,7 +1,7 @@
 ## Hi there :wave: I'm Tai Pham 🌱 Data Guy   
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭  I'm passionate about working with data and leveraging it to uncover valuable insights
+- Got data? Show me! :thinking: 
 <div align="center">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/898e616d-95aa-4b8c-b6ee-0597ecee0b31/d1i9i2g-15ac752d-b36a-447a-a702-9159551fb7b9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84OThlNjE2ZC05NWFhLTRiOGMtYjZlZS0wNTk3ZWNlZTBiMzEvZDFpOWkyZy0xNWFjNzUyZC1iMzZhLTQ0N2EtYTcwMi05MTU5NTUxZmI3YjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yyYk-518OcrjuOOAGBpIsVkqS8Jwp3-VyArXhDMe_ZQ" height="100" />
 </div>
