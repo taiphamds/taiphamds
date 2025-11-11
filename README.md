@@ -1,4 +1,4 @@
-## Hi there :wave: I'm Tai Pham  :smile_cat:  Data Guy   
+## Hi there :smile_cat: I'm Tai Pham a.k.a  Data Guy   
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - Got data? Show me! :thinking: 
