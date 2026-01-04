@@ -8,6 +8,8 @@
 <img src="https://i.gifer.com/5Mz6.gif" height="100" />
 </div>
 
+&nbsp;
+
 #### Languages & Frameworks
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
