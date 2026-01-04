@@ -1,4 +1,4 @@
-## Hi there :smile_cat: I'm Tai Pham
+## Xin chao :smile_cat: i'm Tai Pham
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - data? show me!
