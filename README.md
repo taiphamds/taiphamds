@@ -1,4 +1,4 @@
-***## Xin chao :smile_cat: i'm Tai Pham***
+***Xin chao :smile_cat: i'm Tai Pham***
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -40,6 +40,6 @@
 </p>
 <br />
 
-## Contact:
+#### Contact:
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiphamds/)
 
