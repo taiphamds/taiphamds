@@ -1,13 +1,14 @@
-## Xin chao :smile_cat: i'm Tai Pham
+***## Xin chao :smile_cat: i'm Tai Pham***
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- data? show me!
+`data?` `show me!`
+
 <div align="center">
 <img src="https://i.gifer.com/5Mz6.gif" height="100" />
 </div>
 
-## Tech Stack 
-### Languages & Frameworks
+#### Languages & Frameworks
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -24,7 +25,7 @@
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 </p>
 
-### Tools & Platforms
+#### Tools & Platforms
 <p align="center">
 <img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=282828">
 <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -39,6 +40,6 @@
 </p>
 <br />
 
-## 📫 Contact me via:
+## Contact:
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiphamds/)
 
