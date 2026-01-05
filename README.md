@@ -5,7 +5,7 @@
 `data?` `show me!`
 
 <div align="center">
-<img src="https://i.gifer.com/5Mz6.gif" height="100" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnphZXRydXIzcDhsb3o4Z2h1eGllODg2bmIwcThsZmx4N2J1bTRteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" height="100" />
 </div>
 
 &nbsp;
