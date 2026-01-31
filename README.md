@@ -2,7 +2,7 @@ Xin chao :smile_cat: i'm Tai Pham
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-`data?` `show me!`
+`young person and data science`
 
 <div align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnphZXRydXIzcDhsb3o4Z2h1eGllODg2bmIwcThsZmx4N2J1bTRteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" height="100" />
