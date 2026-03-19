@@ -41,3 +41,8 @@ Xin chao :smile_cat: i'm Tai Pham
 
 #### Contact
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiphamds/)
+[![Gmail](https://img.shields.io/badge/Gmail-taiphamds%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiphamds@gmail.com)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=young+person+and+data+science;" />
+</p>
