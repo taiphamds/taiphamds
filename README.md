@@ -43,5 +43,5 @@ Xin chao :smile_cat: i'm Tai Pham
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiphamds/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1000&color=55FF55&center=true&vCenter=true&width=800&repeat=false&lines=young+person+and+data+science;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1000&color=55FF55&center=true&vCenter=true&width=800&repeat=false&lines=give+me+the+data+and+tell+me+what+u+want+<3;" /
 </p>
